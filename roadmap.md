@@ -1,0 +1,6 @@
+- [x] Add persisted adaptive-learning schema and update generated data types
+- [x] Implement progressive retry-based hints and independent scoring
+- [x] Add chapter demo flow with persistent completion/review
+- [x] Add difficulty names and dashboard/profile display
+- [x] Add secure forgot-password and reset-password routes
+- [ ] Verify build and end-to-end learner flow
